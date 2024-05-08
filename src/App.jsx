@@ -1,5 +1,5 @@
 import Footer from "./components/Footer";
-import Header from "./components/Header_";
+import Header from "./components/Header";
 import Section from "./components/Section";
 const App = () => {
   return (
